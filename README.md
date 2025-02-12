@@ -5,7 +5,8 @@ Este repositório foi criado para armazenar, organizar e compartilhar os exercí
 
 Aqui você encontrará:
 
-Exercícios práticos que reforçam os conceitos aprendidos em sala de aula.
-Projetos finais que integram os conhecimentos adquiridos.
-Exemplos de código e implementações de lógica que facilitam o entendimento de tópicos-chave.
+Exercícios práticos que reforçam os conceitos aprendidos em sala de aula,
+projetos finais que integram os conhecimentos adquiridos e
+exemplos de código e implementações de lógica que facilitam o entendimento de tópicos-chave.
+
 Sinta-se à vontade para explorar os arquivos, reutilizar o código e contribuir com melhorias, caso identifique algo que possa ser aprimorado.
