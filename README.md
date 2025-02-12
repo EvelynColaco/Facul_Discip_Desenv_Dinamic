@@ -1,4 +1,4 @@
-# Facul_Discip_Desenv_Dinamic
+# Faculdade ADS - Disciplina_Desenvolvimento Dinâmico
 Seja Bem-vindo(a) ao repositório de códigos desenvolvidos durante a disciplina de Desenvolvimento Dinâmico, Faculdade em ADS.
 
 Este repositório foi criado para armazenar, organizar e compartilhar os exercícios, projetos e atividades realizados ao longo do curso.
