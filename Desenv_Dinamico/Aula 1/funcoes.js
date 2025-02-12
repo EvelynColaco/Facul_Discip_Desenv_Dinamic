@@ -10,3 +10,13 @@ function novaSaudacao(nome) {
 
 saudacao();
 novaSaudacao("Evelyn");
+novaSaudacao("Jhonson");
+
+
+// CRIANDO FUNÇÃO SOMA 
+function soma(a, b) {
+    return a + b   
+}
+let resultado = soma(4, 5);
+
+console.log("A soma dos números é: ", resultado); 
