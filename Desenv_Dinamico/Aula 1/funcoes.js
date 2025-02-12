@@ -17,6 +17,10 @@ novaSaudacao("Jhonson");
 function soma(a, b) {
     return a + b   
 }
-let resultado = soma(4, 5);
+let resultado1 = soma(4, 5);
+let resultado2 = soma(10, 7)
+let resultado3 = soma(8, 12)
 
-console.log("A soma dos números é: ", resultado); 
+console.log("A soma dos números do resultado 1 é: ", resultado1);
+console.log("A soma dos números do resultado 2 é: ", resultado2); 
+console.log("A soma dos números do resultado 3 é: ", resultado3);    
