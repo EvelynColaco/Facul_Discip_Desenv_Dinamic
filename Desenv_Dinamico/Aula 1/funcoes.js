@@ -10,4 +10,3 @@ function novaSaudacao(nome) {
 
 saudacao();
 novaSaudacao("Evelyn");
-novaSaudacao("Jhonson");
